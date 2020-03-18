@@ -1,4 +1,4 @@
-# Minimal example
+# Using WinAVR to Program an AVR Microcontroller in 2020
 
 ## Motivation
 I wanted to program some good old 8-Bit Atmel AVR MCUs. <br>
